@@ -1,4 +1,4 @@
 # Image_gallery
 
-https://github.com/user-attachments/assets/506b96a5-1b94-4106-912b-77fbbf432a10
+![ImageGallery](https://github.com/user-attachments/assets/4ac2da0b-47a7-46e4-a476-4b0ebc5f756a)
 
